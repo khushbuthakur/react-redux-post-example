@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  width : 90%;
+  margin : auto;
 }
 
 .App-logo {
@@ -30,4 +32,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+input,textarea{
+  width : 50vw;
+  height : 5vh;
+  margin : 10px;
 }
